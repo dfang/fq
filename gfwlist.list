@@ -1,0 +1,105 @@
+! gfwlist(https://github.com/gfwlist/gfwlist) is too long for me.
+! so i made this short list
+!
+! Put user rules line by line in this file.
+! See https://github.com/gfwlist/gfwlist/wiki/Syntax
+
+
+!---------403/451/520 & URL Redirects---------
+! ------- Social networks and Google -------
+
+||google.com
+||gmail.com
+||tumblr.com
+||instagram.com
+||telegram.org
+||youtube.com
+||ytimg.com
+||youtu.be
+||medium.com
+||trello.com
+||wikipedia.org
+||twitter.com
+||twimg.com
+||facebook.com
+||fb.com
+||fb.me
+||m.me
+||messenger.com
+||twimg.com
+||twttr.com
+||twittergadget.com
+||twitterfeed.com
+||twittercounter.com
+||twitterrific.com
+||blogger.com
+||appspot.com
+||blogspot.com
+||picasaweb.com
+
+! ------- Development -------
+
+||amazonaws.com
+||githubusercontent.com
+||stackexchange.com
+||stackoverflow.com
+||github.com
+||github.io
+||git-scm.com
+||gitbooks.io
+||git.io
+||ghost.org
+||internet.org
+||polymer-project.org
+||html5rocks.com
+||material.io
+||deepmind.com
+||tensorflow.org
+||thinkwithgoogle.com
+||withgoogle.com
+||webmproject.org
+||whatbrowser.org
+||webrtc.org
+
+
+! ------- Shorten url -------
+
+||bitly.com
+||j.mp
+||cl.ly
+||is.gd
+||t.co
+||appsto.re
+||w.org
+||wp.com
+
+! ------- VPN -------
+
+||vpnunlimitedapp.com
+||tunnelbear.com
+||fuckgfw.org
+||chinagfw.org
+||hide.me
+||hidemyass.com
+||privatetunnel.com
+||ifanqiang.com
+||cn.uncyclopedia.wikia.com
+||ifanqiang.com
+||haoel.github.io
+||wsgzao.github.io
+||sodatea.github.io
+||isohunt.com
+||thepiratebay.org
+||kickass2.org
+
+! ------- Others -------
+
+||disqus.com
+||disquscdn.com
+||ift.tt
+||tunein.com
+||paper.li
+||buffered.com
+||change.org
+||chinageeks.org
+||chinaeweekly.com
